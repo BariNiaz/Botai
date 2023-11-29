@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T05:25:00.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hgZ1ZkJDgSXQLSqLLi_C" version="22.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-29T05:26:49.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i4ZVI_wxkG1DNBvGWbGN" version="22.1.4" type="github" pages="4">
   <diagram name="Отношения ассоциации" id="1WaE2JM_tU7uVwCu3Bhn">
     <mxGraphModel dx="896" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,9 +66,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRQpNR3TaamjjkEfysRJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-21" target="PRQpNR3TaamjjkEfysRJ-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PRQpNR3TaamjjkEfysRJ-21" value="Составить договор" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="220" width="86" height="60" as="geometry" />
         </mxCell>
@@ -82,6 +79,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="316" y="260" as="sourcePoint" />
             <mxPoint x="366" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_zYkzuKRY4DZNEhcT9d-1" value="&quot;include&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PRQpNR3TaamjjkEfysRJ-30">
+          <mxGeometry x="0.1726" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PRQpNR3TaamjjkEfysRJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-32">
@@ -114,6 +116,15 @@
             <mxPoint x="340" y="310" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iMPuFiom2_TGZpkwWRvd-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-21" target="PRQpNR3TaamjjkEfysRJ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMPuFiom2_TGZpkwWRvd-2" value="&quot;include&quot;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="iMPuFiom2_TGZpkwWRvd-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -377,7 +388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lyUvDb5eW7vV_N0U4lwE" name="Страница — 4">
-    <mxGraphModel dx="896" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
