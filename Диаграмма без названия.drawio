@@ -1,9 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T03:50:41.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="YMEManzIYmycylffese-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T04:11:00.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BbhP6v4CXJ9NRRIzwjuM" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="1WaE2JM_tU7uVwCu3Bhn">
-    <mxGraphModel>
+    <mxGraphModel dx="598" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-1" value="Владелец" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-2" target="PRQpNR3TaamjjkEfysRJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-2" value="Модератор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-3" target="PRQpNR3TaamjjkEfysRJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-3" target="PRQpNR3TaamjjkEfysRJ-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="270" />
+              <mxPoint x="440" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-3" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-11" value="Найти помещение для аренды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-3" target="PRQpNR3TaamjjkEfysRJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-13" value="Ввод логина и пароля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-16" value="Ввод данных помещения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-19" target="PRQpNR3TaamjjkEfysRJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-19" value="Составить документацию&amp;nbsp; помещения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-21" target="PRQpNR3TaamjjkEfysRJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="280" />
+              <mxPoint x="215" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="388" y="250" />
+              <mxPoint x="388" y="271" />
+              <mxPoint x="460" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-21" target="PRQpNR3TaamjjkEfysRJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-21" value="Составить договор" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-27" value="Составить договор&lt;br&gt;аренды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-29" value="Составить договор оплаты" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-30" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endFill=1;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="316" y="260" as="sourcePoint" />
+            <mxPoint x="366" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-32" value="Составить ценообразование помещений" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
