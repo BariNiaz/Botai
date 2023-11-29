@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T04:11:00.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BbhP6v4CXJ9NRRIzwjuM" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T04:16:24.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w9dElrvxPwdNNUORlq6o" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="1WaE2JM_tU7uVwCu3Bhn">
-    <mxGraphModel dx="598" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PRQpNR3TaamjjkEfysRJ-1" target="PRQpNR3TaamjjkEfysRJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PRQpNR3TaamjjkEfysRJ-1" value="Владелец" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="30" height="60" as="geometry" />
         </mxCell>
@@ -88,6 +91,23 @@
         </mxCell>
         <mxCell id="PRQpNR3TaamjjkEfysRJ-32" value="Составить ценообразование помещений" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="PRQpNR3TaamjjkEfysRJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="390" as="sourcePoint" />
+            <mxPoint x="490" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="390" />
+              <mxPoint x="530" y="310" />
+              <mxPoint x="475" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-36" value="Оплатить счёт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQpNR3TaamjjkEfysRJ-40" value="Отбор помещения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="290" width="86" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
