@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T04:52:30.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PT71nSwg1o01iScTNr5l" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-29T04:52:57.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vktT37hUKLFhTpWecIfC" version="22.1.4" type="github" pages="4">
   <diagram name="Отношения ассоциации" id="1WaE2JM_tU7uVwCu3Bhn">
     <mxGraphModel dx="896" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7rHs5IpXP7o2qMoaOFKu" name="Страница — 3">
+  <diagram id="7rHs5IpXP7o2qMoaOFKu" name="Владелец">
     <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -373,6 +373,14 @@
         <mxCell id="SgnCnT-RxKEYPLRiS6tC-14" value="Выдать ключ-код помещения" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="350" y="990" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lyUvDb5eW7vV_N0U4lwE" name="Страница — 4">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
