@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T04:37:35.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JdZ9W1ixMWQHUc126bgg" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-29T04:38:44.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fp7ogON5E2MgS7roqQoq" version="22.1.4" type="github" pages="3">
   <diagram name="Отношения ассоциации" id="1WaE2JM_tU7uVwCu3Bhn">
     <mxGraphModel dx="896" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,14 +220,14 @@
         <mxCell id="n6Mv7MW8GGcoLFMvmCgD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n6Mv7MW8GGcoLFMvmCgD-17" target="5mm6XgX2EN-L9XOWcYwb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n6Mv7MW8GGcoLFMvmCgD-17" value="База поещений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n6Mv7MW8GGcoLFMvmCgD-17" value="База поещений" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="7rHs5IpXP7o2qMoaOFKu" name="Страница — 3">
-    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,8 +328,8 @@
         <mxCell id="7WllbQQH-QtX2qwkI6-Y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7WllbQQH-QtX2qwkI6-Y-24" target="7WllbQQH-QtX2qwkI6-Y-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WllbQQH-QtX2qwkI6-Y-24" value="База поещений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="7WllbQQH-QtX2qwkI6-Y-24" value="База поещений" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
